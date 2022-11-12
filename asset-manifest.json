@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/allab-test-task/static/css/main.68a0a81d.css",
+    "main.js": "/allab-test-task/static/js/main.8bdc1cd0.js",
+    "index.html": "/allab-test-task/index.html",
+    "static/media/marker.svg": "/allab-test-task/static/media/marker.8345f2d22ada1d7f14cd7f11e8adf21b.svg",
+    "main.68a0a81d.css.map": "/allab-test-task/static/css/main.68a0a81d.css.map",
+    "main.8bdc1cd0.js.map": "/allab-test-task/static/js/main.8bdc1cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68a0a81d.css",
+    "static/js/main.8bdc1cd0.js"
+  ]
+}
